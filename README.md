@@ -3,6 +3,6 @@ I created an app called Webmark, an application for organizing my browser bookma
 
 Some feature of the app:
 
-View, add, edit, and delete the bookmark
-Label for bookmark category
-Pin the bookmark to mark it as imporant
+- View, add, edit, and delete the bookmark
+- Label for bookmark category
+- Pin the bookmark to mark it as imporant
